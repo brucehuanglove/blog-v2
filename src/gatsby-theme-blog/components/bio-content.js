@@ -10,7 +10,7 @@ export default function Bio() {
     <>
       Bruce Huang
       <br />
-      He / him. Front end newbie. Writing blogs for fun.
+      He / him. Front end newbie. Write blogs for fun. React / Vue
     </>
   )
 }
